@@ -1,2 +1,0 @@
-# beeswarmsimulator
-atlas fork script
